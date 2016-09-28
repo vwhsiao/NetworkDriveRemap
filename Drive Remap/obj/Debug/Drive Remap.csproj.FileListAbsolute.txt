@@ -1,0 +1,30 @@
+\\esmeralda\itstudent$\vwhsiao\documents\visual studio 2013\Projects\Drive Remap\Drive Remap\bin\Debug\Drive Remap.exe.config
+\\esmeralda\itstudent$\vwhsiao\documents\visual studio 2013\Projects\Drive Remap\Drive Remap\bin\Debug\Drive Remap.exe
+\\esmeralda\itstudent$\vwhsiao\documents\visual studio 2013\Projects\Drive Remap\Drive Remap\bin\Debug\Drive Remap.pdb
+\\esmeralda\itstudent$\vwhsiao\documents\visual studio 2013\Projects\Drive Remap\Drive Remap\obj\Debug\Drive_Remap.Form1.resources
+\\esmeralda\itstudent$\vwhsiao\documents\visual studio 2013\Projects\Drive Remap\Drive Remap\obj\Debug\Drive_Remap.Properties.Resources.resources
+\\esmeralda\itstudent$\vwhsiao\documents\visual studio 2013\Projects\Drive Remap\Drive Remap\obj\Debug\Drive Remap.csproj.GenerateResource.Cache
+\\esmeralda\itstudent$\vwhsiao\documents\visual studio 2013\Projects\Drive Remap\Drive Remap\obj\Debug\Drive Remap.exe
+\\esmeralda\itstudent$\vwhsiao\documents\visual studio 2013\Projects\Drive Remap\Drive Remap\obj\Debug\Drive Remap.pdb
+C:\Drive Remap\Drive Remap\bin\Debug\Drive Remap.exe.config
+C:\Drive Remap\Drive Remap\bin\Debug\Drive Remap.exe
+C:\Drive Remap\Drive Remap\bin\Debug\Drive Remap.pdb
+C:\Drive Remap\Drive Remap\obj\Debug\Drive Remap.csprojResolveAssemblyReference.cache
+C:\Drive Remap\Drive Remap\obj\Debug\Drive_Remap.Properties.Resources.resources
+C:\Drive Remap\Drive Remap\obj\Debug\Drive Remap.csproj.GenerateResource.Cache
+C:\Drive Remap\Drive Remap\obj\Debug\Drive Remap.exe
+C:\Drive Remap\Drive Remap\obj\Debug\Drive Remap.pdb
+C:\Drive Remap\Drive Remap\obj\Debug\Drive_Remap.DriveRemap.resources
+D:\Drive Remap\Drive Remap\bin\Debug\Drive Remap.exe.config
+D:\Drive Remap\Drive Remap\obj\Debug\Drive Remap.exe
+D:\Drive Remap\Drive Remap\obj\Debug\Drive Remap.pdb
+D:\Drive Remap\Drive Remap\obj\Debug\Drive Remap.csprojResolveAssemblyReference.cache
+D:\Drive Remap\Drive Remap\obj\Debug\Drive_Remap.DriveRemap.resources
+D:\Drive Remap\Drive Remap\obj\Debug\Drive_Remap.Properties.Resources.resources
+D:\Drive Remap\Drive Remap\obj\Debug\Drive Remap.csproj.GenerateResource.Cache
+D:\Drive Remap\Drive Remap\bin\Debug\Drive Remap.exe.manifest
+D:\Drive Remap\Drive Remap\bin\Debug\Drive Remap.application
+D:\Drive Remap\Drive Remap\bin\Debug\Drive Remap.exe
+D:\Drive Remap\Drive Remap\bin\Debug\Drive Remap.pdb
+D:\Drive Remap\Drive Remap\obj\Debug\Drive Remap.exe.manifest
+D:\Drive Remap\Drive Remap\obj\Debug\Drive Remap.application

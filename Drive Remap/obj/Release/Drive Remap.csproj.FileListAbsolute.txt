@@ -1,0 +1,13 @@
+C:\Drive Remap\Drive Remap\bin\Release\Drive Remap.exe.config
+C:\Drive Remap\Drive Remap\bin\Release\Drive Remap.exe
+C:\Drive Remap\Drive Remap\bin\Release\Drive Remap.pdb
+C:\Drive Remap\Drive Remap\obj\Release\Drive_Remap.DriveRemap.resources
+C:\Drive Remap\Drive Remap\obj\Release\Drive_Remap.Properties.Resources.resources
+C:\Drive Remap\Drive Remap\obj\Release\Drive Remap.csproj.GenerateResource.Cache
+C:\Drive Remap\Drive Remap\obj\Release\Drive Remap.exe
+C:\Drive Remap\Drive Remap\obj\Release\Drive Remap.pdb
+C:\Drive Remap\Drive Remap\obj\Release\Drive Remap.csprojResolveAssemblyReference.cache
+C:\Drive Remap\Drive Remap\bin\Release\Drive Remap.exe.manifest
+C:\Drive Remap\Drive Remap\bin\Release\Drive Remap.application
+C:\Drive Remap\Drive Remap\obj\Release\Drive Remap.exe.manifest
+C:\Drive Remap\Drive Remap\obj\Release\Drive Remap.application
